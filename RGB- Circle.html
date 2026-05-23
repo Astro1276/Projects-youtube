@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio</title>
+    <style>
+        body {
+            background: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        
+        .loader {
+            width: 150px;
+            height: 150px;
+            position: relative;
+            background: conic-gradient(from 360deg, #ff0000, #ff8000, #ffff00, #00ff00, #00ffff, #8000ff, #ff00ff, #ff0000);
+            border-radius: 50%;
+            animation: girar 1.5s linear-infinite;
+        }
+        
+        .loader::before{
+            content: "";
+            position: absolute;
+            inset: 10px;
+            background: #050505;
+            border-radius: 50%;
+        }
+        
+        @keyframes{
+            girar to{
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="loader"></div>
+</body>
+</html>
