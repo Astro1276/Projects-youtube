@@ -1,9 +1,9 @@
 # 🎀 ¡Bienvenido al Rincón del Código Aesthetic! ✨
 
 <div align="center">
-  <img src="https://shields.io" alt="YouTube Shorts">
-  <img src="https://shields.io" alt="Discussions">
-  <img src="https://shields.io" alt="Estilo">
+  <img src="https://img.shields.io/badge/YouTube_Shorts-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Shorts">
+  <img src="https://img.shields.io/badge/GitHub_Discussions-238636?style=for-the-badge&logo=github&logoColor=white" alt="Discussions">
+  <img src="https://img.shields.io/badge/Diseño_Aesthetic-ff69b4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Estilo">
 </div>
 
 <br />
@@ -12,22 +12,30 @@
 
 ---
 
+## 🛡️ Licencia y Uso (Anti-Copia)
+
+Este repositorio utiliza la licencia **CC BY-NC-SA 4.0**.
+* ✅ **Permitido:** Usar el código para aprender, practicar y mostrar en tu portafolio personal.
+* ❌ **Prohibido:** No puedes vender este código, ni monetizar proyectos que dependan directamente de estos archivos sin mi permiso. 
+* ⚠️ **Créditos:** Si compartes el resultado, ¡etiquétame para que vea tu talento!
+
+---
+
 ## 🚀 Acceso Rápido a la Comunidad
 
 ¡No te quedes solo con el código! Nuestro foro de **GitHub Discussions** está activo para interactuar directamente contigo. Haz clic en lo que necesites:
 
-
 | 📢 [¡Ver Spoilers y Avisos!](https://github.com) | 🙋 [¿El código te dio error?](https://github.com) |
 | :--- | :--- |
 | **✨ [¡Presume tu diseño editado!](https://github.com)** | **💡 [Propón ideas para videos](https://github.com)** |
-| **📊 [Vota en las encuestas](https://github.com)** | |
+| **📊 [Vota en las encuestas](https://github.com)** | **🏆 [Hall of Fame (Top Creadores)](https://github.com)** |
 
 ---
 
 ## 📂 ¿Cómo usar estos códigos?
 
-1. **Busca la carpeta**: Cada proyecto de los Shorts tiene su propia carpeta con el nombre del video o la temática.
-2. **Copia o descarga**: Abre los archivos (como `index.html`, `script.py`, etc.) y copia el código directo a tu editor.
+1. **Busca el Título**: Cada proyecto está organizado en una carpeta que lleva el **mismo nombre del título** que viste en el Short.
+2. **Copia o descarga**: Abre los archivos (como `index.html`, `style.css`, etc.) y copia el código directo a tu editor.
 3. **Dale play**: ¡Disfruta de tu widget o animación aesthetic!
 
 ---
