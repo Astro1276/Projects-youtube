@@ -39,7 +39,7 @@ Este proyecto está bajo la licencia **CC BY-NC-SA 4.0**.
 * ✅ **Permitido:** Usar el código para aprender y en tus proyectos personales sin fines de lucro.
 * ❌ **Prohibido:** No puedes vender este código ni usarlo para crear herramientas de pago o dependencia sin autorización.
 * ⚠️ **Mención:** Si lo usas en tus redes, menciona a **Lobo Weaver**. ¡Respetemos el trabajo del creador!
-* 📜 **Legal:** [Leer política completa de Lobo Weaver (LICENSE.md)](LICENSE.md)
+* 📜 **Legal:** [Leer política completa de Lobo Weaver (LICENSE.md)](license.md)
 
 ---
 
