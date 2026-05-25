@@ -16,9 +16,9 @@
 
 ¡No te quedes solo con el código! Nuestro foro de **GitHub Discussions** es el corazón de la manada. Haz clic en lo que necesites:
 
-| 📢 [¡Ver Spoilers y Avisos!](https://github.com) | 🙋 [¿El código te dio error?](https://github.com) |
+| 📢 [¡Ver Spoilers y Avisos!](https://github.com/Astro1276/Projects-youtube/discussions/categories/-anuncios-spoilers) | 🙋 [¿El código te dio error?](https://github.com/Astro1276/Projects-youtube/discussions/categories/-ayuda-con-el-c%C3%B3digo) |
 | :--- | :--- |
-| **✨ [¡Presume tu diseño editado!](https://github.com)** | **💡 [Propón ideas para videos](https://github.com)** |
+| **✨ [¡Presume tu diseño editado!](https://github.com)** | **💡 [Propón ideas para videos](https://github.com/Astro1276/Projects-youtube/discussions/categories/-ideas-para-shorts)** |
 | **📊 [Vota en las encuestas](https://github.com)** | **🏆 [Hall of Fame (Top Weaver)](https://github.com)** |
 
 ---
