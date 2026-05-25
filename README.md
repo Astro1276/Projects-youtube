@@ -48,7 +48,8 @@ Este proyecto está bajo la licencia **CC BY-NC-SA 4.0**.
 Si quieres ver más procesos de diseño y estar al tanto de lo que viene:
 
 * 📺 **[Mi Canal de YouTube](https://youtube.com/@lobo_dev1?si=sSGJiA2Gt_LE9UlK)** — Suscríbete para los mejores Shorts de código.
-* 📸 **[Mi Instagram](https://instagram.com)** — Detrás de cámaras y setups de un Weaver.
+* 📱 **[TikTok](https://www.tiktok.com/@lobo_dev1?_r=1&_t=ZS-96f1FrJb0Ub)** -- Tutoriales de programación aesthetic y tips de código.
+* 
 * ☕ **[Invítame un Café](https://buymeacoffee.com)** — Apoya el contenido gratuito si estos códigos te han servido.
 
 ---
